@@ -2,10 +2,10 @@
 
 
 ## Overview
-This project transforms a Bluetooth/BLE gamepad into a long-range controller for RC cars and drones using two ESP32 microcontrollers. By leveraging ESP-NOW technology with long-range antennas, it enables control over distances of up to 1100 m. This system supports various protocols, including SBUS, UART, and PPM, making it versatile for different applications.
+This project transforms a Bluetooth/BLE gamepad into a long-range controller for RC cars and drones using two ESP32 microcontrollers. By leveraging ESP-NOW technology with long-range antennas, it enables control over distances of up to 1100 m. This system supports various protocols, including [SBUS](https://sigrok.org/wiki/Protocol_decoder:Sbus_futaba), UART, making it versatile for different applications.
 
 ## Features
-- **Long Range**: Control RC vehicles and drones up to 1100 km away.
+- **Long Range**: Control RC vehicles and drones up to 1100 m away.
 - **Protocol Support**: Compatible with SBUS, UART, and PPM protocols.
 - **End-to-End Encryption**: Ensures secure communication between devices.
 - **Low Latency**: Response time of up to 10 ms for real-time control.
