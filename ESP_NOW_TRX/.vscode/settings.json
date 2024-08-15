@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "esp_now_fct.h": "c",
+        "esp_now_fcts.h": "c",
+        "timer.h": "c",
+        "esp_timer.h": "c",
+        "cstdint": "cpp",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    },
+    "cmake.configureOnOpen": false
+}

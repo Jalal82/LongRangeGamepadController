@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "esp_now_fct.h": "c",
+        "esp_now_fcts.h": "c",
+        "esp_bt_defs.h": "c",
+        "esp_log.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}
