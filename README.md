@@ -24,7 +24,7 @@ This project transforms a Bluetooth/BLE gamepad into a long-range controller for
 ## Software Requirements
 - ESP-IDF framework version 5.3 or Later
 
-  [![YouTube Thumbnail](https://www.youtube.com/watch?v=6BQFID5WnuM)
+[![YouTube](http://i.ytimg.com/vi/6BQFID5WnuM/hqdefault.jpg)](https://www.youtube.com/watch?v=6BQFID5WnuM)
 
 ## Setup Instructions
 1. **Clone the Repository**:
